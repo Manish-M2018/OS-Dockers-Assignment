@@ -12,9 +12,16 @@ localhost:8080 -> PhpMyAdmin
 
 <br>
 
+<h2> Sample wordpress website </h2>
 ![Wordpress Website](Images/p2.png) <br>
+
+<h2> PhpMyAdmin </h2>
 ![PhpMyAdmin](Images/p3.png) <br>
+
+<h2> Terminal </h2>
 ![Terminal](Images/p1.png)
+
+Virtual machine (Kali Linux) was used for the execution
 
 
 
