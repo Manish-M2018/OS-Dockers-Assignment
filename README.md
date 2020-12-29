@@ -10,6 +10,8 @@ Kaustubha DS - 1MS18CS058<br>
 localhost:8000 -> Wordpress<br>
 localhost:8080 -> PhpMyAdmin
 
+![Terminal] (https://github.com/Manish-M2018/OS-Dockers-Assignment/blob/main/Images/p1.png)
+
 
 
 
